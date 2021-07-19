@@ -151,8 +151,6 @@ function Reg() {
                 onChange={e=>setReason(e.target.value)}
                 value={reason}
                 ></textarea>
-              <p>{Error}</p>
-
               </div>  
 
               <div>
