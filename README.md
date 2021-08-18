@@ -1,5 +1,2 @@
 # form_task
-Name : Ragini Rajendra Chauragade
-
-
-College Of Engineering Pune
+Simple login form created using ReactJs
